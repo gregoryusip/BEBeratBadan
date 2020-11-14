@@ -1,0 +1,13 @@
+Perkenalkan nama saya Gregoryus Imannuel Perdana, mahasiswa dari Bina Nusantara (Binus) University.
+
+Dalam mengerjakan technical test berjudul "BE - Berat Badan", 
+
+Saya menggunakan bahasa pemrograman HTML (Bootstrap) untuk membuat tampilan dari program.
+
+Bagian back-end, saya menggunakan framework Laravel 7.0 dengan database mySQL dengan phpmyadmin.
+
+Saya membuat database yang berisikan 4 data dan bisa ditambah sesuai dengan keinginan.
+
+Saya juga menyertakan file beratbadan.sql agar dapat dipakai.
+
+Terima kasih.
